@@ -10,7 +10,7 @@
     "url": "https://github.com/mayo/metalsmith-serve"
   },
   "dependencies": {
-    "chalk": "^0.4.0",
+    "chalk": "^0.5.1",
     "http-status": "^0.2.0",
     "node-static": "^0.7.7"
   },
